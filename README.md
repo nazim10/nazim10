@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nazim10
+https://github.com/nazim10/nazim10/assets/114684213/5cbe68cc-524e-4bcd-b1cd-0eb66af3f555
 - 👀 I’m interested in :  JAVA Development- Mathmatic - ARDUINO ROBOTIC - Machine-Mechanic - Electronic - Electric.
 - 🌱 I’m currently learning : Java- German 
 - 💞️ I’m looking to collaborate on ...
