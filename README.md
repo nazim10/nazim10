@@ -42,7 +42,7 @@
   </a>
    <a href="https://stackoverflow.com/users/20495383/nazim-b%c3%96rkl%c3%9c" target="_blank">
     <img src="https://img.shields.io/badge/-StackOverFlow-%23333?style=for-the-badge&logo=StackOverFlow&logoColor=orange" target="_blank">
-  <a href = "mailto:nazim2020.de@gmail.com">
+   <a href = "mailto:nazim2020.de@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
   </a>
   <a href="https://instagram.com/nazim_1038" target="_blank">
